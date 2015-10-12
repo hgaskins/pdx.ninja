@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Changa+One:400,400italic);
+
+body {
+	background: #323232;
+	line-height: 22px;
+}
+
+h1 {
+	font-family: 'Changa One', 'Open Sans', sans-serif;
+	color: #f2e8e8;
+	font-size: 80px;
+	font-weight: 700;
+	color: #aaa;
+	letter-spacing: .2px;
+}
+h2 {
+	font-family: 'Changa One', 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-style: italic;
+	color: #aaa;
+	letter-spacing: .5px;
+}	
+
+/* 
+  div class container for centering text on landing page
+*/
+.landing {
+	margin: 300 0 90 0;
+	text-align: center;
+}
