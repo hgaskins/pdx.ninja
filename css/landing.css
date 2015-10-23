@@ -3,22 +3,29 @@
 body {
 	background: #323232;
 	line-height: 22px;
+	text-align: center;
+	padding: 3em 0 2em;
+
+
 }
 
 h1 {
-	font-family: 'Changa One', 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
 	color: #f2e8e8;
-	font-size: 80px;
-	font-weight: 700;
+	font-size: 3em;
 	color: #aaa;
 	letter-spacing: .2px;
+	line-height: 1.62;
 }
 h2 {
-	font-family: 'Changa One', 'Open Sans', sans-serif;
-	font-size: 32px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 2em;
 	font-style: italic;
 	color: #aaa;
 	letter-spacing: .5px;
+	line-height: 1.62;
 }	
 
 /* 
