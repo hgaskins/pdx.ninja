@@ -30,21 +30,22 @@ h2 {
 
 /* 
   div class container for centering text on landing page
-*/
 .landing {
 	margin: 300 0 90 0;
 	text-align: center;
 }
 
+*/
+
 .centerDiv {
     width: 800px;
     border-radius: 5px;
-    background: #ccc;
+    /* background: #ccc;*/
     padding: 10px;
     height: 50px;
     position: absolute;
-    margin-top: -25px;
-    margin-left: -400px;
+    margin-top: -20px;
+    margin-left: -350px;
     top: 50%;
     left: 50%;
 }
