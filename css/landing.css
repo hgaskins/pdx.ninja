@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Changa+One:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700,300|EB+Garamond);
 
 body {
 	background: #323232;
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold;
 	color: #f2e8e8;
 	font-size: 3em;
@@ -19,7 +19,7 @@ h1 {
 	line-height: 1.62;
 }
 h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-weight: 400;
 	font-size: 2em;
 	font-style: italic;
@@ -36,11 +36,11 @@ h2 {
 }
 
 */
-
-.centerDiv {
+/* background: #ccc;*/
+/*.centerDiv {
     width: 800px;
     border-radius: 5px;
-    /* background: #ccc;*/
+    
     padding: 10px;
     height: 50px;
     position: absolute;
@@ -48,4 +48,4 @@ h2 {
     margin-left: -350px;
     top: 50%;
     left: 50%;
-}
+} */
