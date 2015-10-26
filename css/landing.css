@@ -13,18 +13,18 @@ h1 {
 	font-family: 'Quicksand', sans-serif;
 	font-weight: bold;
 	color: #f2e8e8;
-	font-size: 3em;
+	font-size: 4em;
 	color: #aaa;
-	letter-spacing: .2px;
+	letter-spacing: .5px;
 	line-height: 1.62;
 }
 h2 {
 	font-family: 'EB Garamond', serif;
 	font-weight: 400;
-	font-size: 2em;
-	font-style: italic;
+	font-size: 1.5em;
+	font-style: normal;
 	color: #aaa;
-	letter-spacing: .5px;
+	letter-spacing: .1px;
 	line-height: 1.62;
 }	
 
