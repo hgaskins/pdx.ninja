@@ -44,14 +44,14 @@ hr {
 }
 .btn-primary {
 	padding: 8px 20px;
-	background: #3498db;
+	background: #5E9552;
 	color: #fff;
 	border-radius: 4px;
 	border: none;
 	margin-top: 10px;
 }
 .btn-primary:hover, .btn-primary:focus {
-	background: #2d78ae;
+	background: #3D5F35;
 	outline: none;
 	box-shadow: none;
 }
@@ -148,7 +148,7 @@ body > section {
 	display: inline-block;
 }
 .navbar-inverse .navbar-nav > li > a:hover {
-	background-color: #3498db;
+	background-color: #5E9552;
 	color: #fff;
 }
 .navbar-inverse {
@@ -161,7 +161,7 @@ body > section {
 	color: #fff;
 }
 .navbar-inverse .navbar-brand .fa {
-	color: #3498db;
+	color: #5E9552;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
 	background-color: #333;
@@ -189,22 +189,22 @@ body > section {
 	margin: 20px 0;
 	padding: 0 10px;
 	border-radius: 10px;
-	border: 1px solid #9bcaec;
+	border: 1px solid #85CD75;
 	border-bottom: 0;
 	border-right: 0;
 	box-shadow: 6px 3px #ddd;
 }
 #main-slider .carousel .logo i {
-	color: #3498db;
+	color: #5E9552;
 }
 #main-slider .carousel h2 {
-	color: #666;
-	font-weight: 500;
+	color: #333;
+	font-weight: 700;
 	margin: 20px 0;
 }
 #main-slider .carousel .btn-slide {
 	padding: 8px 20px;
-	background: #3498db;
+	background: #5E9552;
 	color: #fff;
 	border-radius: 4px;
 	margin-top: 25px;
@@ -258,7 +258,7 @@ body > section {
 	opacity: 0.8;
 }
 #main-slider .prev:hover, #main-slider .next:hover {
-	background-color: #3498db;
+	background-color: #5E9552;
 }
 #main-slider .prev {
 	left: 10px;
@@ -278,7 +278,7 @@ body > section {
 	width: 18px;
 	height: 18px;
 	border-radius: 100%;
-	border: 1px solid #c3dff4;
+	border: 1px solid #AFE2A3;
 	left: -3px;
 	top: -3px;
 }
@@ -287,7 +287,7 @@ body > section {
 	height: 14px;
 	background-color: #fff;
 	margin: 0 15px 0 0;
-	border: 1px solid #3498db;
+	border: 1px solid #519F40;
 	position: relative;
 }
 #main-slider .carousel-indicators .active:after {
@@ -297,7 +297,7 @@ body > section {
 	height: 18px;
 	border-radius: 100%;
 	background: #fff;
-	border: 1px solid #3498db;
+	border: 1px solid #519F40;
 	left: -3px;
 	top: -3px;
 }
@@ -339,7 +339,7 @@ body > section {
 	line-height: 110px;
 	text-align: center;
 	background: #ffffff;
-	color: #3498db;
+	color: #5E9552;
 }
 #recent-works .col-xs-12.col-sm-4.col-md-4 {
 	padding: 0;
@@ -377,7 +377,7 @@ body > section {
 	height: 100%;
 	opacity: 0;
 	border-radius: 0;
-	background: #3498db;
+	background: #5E9552;
 	color: #fff;
 	vertical-align: middle;
 	-webkit-transition: opacity 500ms;
