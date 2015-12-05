@@ -49,3 +49,15 @@ h2 {
     top: 50%;
     left: 50%;
 } */
+
+html,body {
+  height:100%;
+  width:100%;
+  margin:0;
+}
+body {
+  display:flex;
+}
+div {
+  margin:auto;/* nice thing of auto margin if display:flex; it center both horizontal and vertical :) */
+}
